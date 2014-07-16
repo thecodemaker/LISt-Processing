@@ -2,3 +2,7 @@
 *.fasl
 *.lisp-temp
 *.lisp~
+
+# idea
+.idea
+*.iml
